@@ -1,0 +1,17 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/josephspurrier/ball",
+			"repository": "https://github.com/josephspurrier/ball",
+			"revision": "5580f6a2fbe7ca48cc06ec3bf383e437ebbe58d9",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/josephspurrier/beachball",
+			"repository": "https://github.com/josephspurrier/beachball",
+			"revision": "1a5d3ce966fe3a5e4e1ce38e3c3ea2885b2ab934",
+			"branch": "master"
+		}
+	]
+}
